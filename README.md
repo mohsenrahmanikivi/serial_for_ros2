@@ -2,7 +2,7 @@
 Serial library modified to work with ros2 humble
 
 - If you are using this library with libsegwayrmp then just download the serial library and put it in parallel to your ROS2 humble workspace.
-- Also run <code>export COLCON_WS= your full path of ros working space
+- Also run <code>export COLCON_WS= your full path of ros working space</code>
 - run the following code:
 - <code>cd  ${COLCON_WS}/src</code>
 - <code>git clone https://github.com/mohsenrahmanikivi/serial_for_ros2.git</code>
